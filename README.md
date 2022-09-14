@@ -2,8 +2,8 @@
 
 <p>Trabalhando com responsividade e posicionamento com CSS utilizando: </p>
 <ul>
-HTML;
-CSS;
-SASS;
-JAVASCRIPT;
+<li>HTML;</li>
+<li>CSS;</li>
+<li>SASS;</li>
+<li>JAVASCRIPT;</li>
 </ul>
